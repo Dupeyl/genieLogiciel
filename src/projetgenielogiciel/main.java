@@ -22,8 +22,13 @@ public class main {
         int A = 0;
         System.out.println("je crée un conflit");
         System.out.println("On aimerait vraiment créer un conflit");
+<<<<<<< HEAD
         
-        //conflit de marion
+        
+=======
+
+        //conflit de lisa
+>>>>>>> b297dc19ab74d1654bdc7add2df321c39611769f
     }
     
 }
