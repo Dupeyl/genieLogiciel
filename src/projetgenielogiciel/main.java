@@ -18,6 +18,9 @@ public class main {
         // TODO code application logic here
         
         //lisa =)
+        
+        int A = 0;
+        System.out.println("je crée un conflit");
     }
     
 }
